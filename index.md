@@ -2,7 +2,7 @@
 layout: home
 author_profile: true
 ---
-
+A
 
 I am a second year PhD student at [INRIA](https://www.inria.fr/en) and at [CMAP, École polytechnique](https://portail.polytechnique.edu/cmap/en), Ecole Polytechnique. I am supervised by [Hadrien Hendrikx](https://www.di.ens.fr/hadrien.hendrikx/), from INRIA, and [Aymeric Dieuleveut](http://www.cmap.polytechnique.fr/~aymeric.dieuleveut/) from CMAP.
 
