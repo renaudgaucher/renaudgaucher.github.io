@@ -114,7 +114,7 @@ analytics:
 # Site Author
 author:
   name             : "Renaud Gaucher"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/bio_photo.JPG"
   bio              : "PhD Student in Optimization and Machine Learning."
   location         : 
   email            : 
