@@ -9,4 +9,4 @@ I am a second year PhD student at [CMAP](https://portail.polytechnique.edu/cmap/
 
 I am mainly interested in distributed learning, specifically Byzantine robustness and privacy, currently with a focus on the decentralized setting. 
 
-You can take a look at the activities of [Aymeric Dieuleuvet's team](https://adieuleveutteam.github.io/).
+You can take a look at the activities of [Aymeric Dieuleveut's team](https://adieuleveutteam.github.io/).
