@@ -14,7 +14,7 @@ R. Gaucher, A. Dieuleveut, H. Hendrikx
 2024  
 [arXiv](https://arxiv.org/abs/2410.10418)  
 
-- *Byzantine-Robust Gossip: Insights from a Dual Approach*  
+<!-- - *Byzantine-Robust Gossip: Insights from a Dual Approach*  
 R. Gaucher, A. Dieuleveut, H. Hendrikx  
 2024  
-[arXiv](https://arxiv.org/abs/2405.03449)
+[arXiv](https://arxiv.org/abs/2405.03449) -->
