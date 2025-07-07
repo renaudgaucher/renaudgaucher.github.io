@@ -11,5 +11,12 @@ I am mainly interested in distributed learning, specifically Byzantine robustnes
 
 
 
-You can take a look at the activities of [Aymeric Dieuleveut's team](https://adieuleveutteam.github.io/).
+##### News
 
+- Very proud to anounce that the work with Aymeric Dieuleveut and Hadrien Hendrikx, [A Unified Breakdown Analysis for Byzantine Robust Gossip](https://arxiv.org/abs/2410.10418), was accepted at [ICML 2025](https://icml.cc/Conferences/2025)!
+- From May to July 2025, I am visiting [Lydia Zakynthinou](https://lydiazakynthinou.com) at UC Berkeley. Thanks for this great opportunity! I also thank the [FMJH](https://www.fondation-hadamard.fr/en/) for funding partially this stay abroad.
+
+
+##### Community
+
+I am currently engaged in the sustainable development group at [CMAP](https://portail.polytechnique.edu/cmap/en), École polytechnique. I also co-founded [Aymeric Dieuleveut's team](https://adieuleveutteam.github.io/) group meeting with [Margaux Zaffran](https://mzaffran.github.io), which I still co-organize with [Daniel Berg Thomsen](https://bergthomsen.com). 
