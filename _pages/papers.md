@@ -14,6 +14,7 @@ R. Gaucher, A. Dieuleveut, H. Hendrikx
 ICML 2025  
 [arXiv](https://arxiv.org/abs/2410.10418)  
 [code](https://github.com/renaudgaucher/Byzantine-Robust-Gossip)
+[poster](/assets/files/poster_ICML25.pdf)
 
 ###### Pre-prints
 
