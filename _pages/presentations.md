@@ -14,7 +14,15 @@ title: "Presentations"
 [StatMathAppli](https://statmathappli.mathnum.inrae.fr)
 [slides](/assets/files/Renaud_StatMathAppli_2025_condensee.pdf)
 
+- Achieving Optimal Breakdown for Byzantine Robust Gossip
+October 2024
+[Toth team](https://team.inria.fr/thoth/) retreat
+[slides](/assets/files/thoth_october_2024.pdf)
 
+- Byzantine Robust Optimization: a Dual Approach
+12 March 2024
+[SIMPA team](https://cmap.ip-paris.fr/recherche/decision-et-donnees/simpas) retreat
+[slides](/assets/files/Flash_talk_SIMPA.pdf)
 
 ##### Poster
 
