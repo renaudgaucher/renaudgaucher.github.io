@@ -10,6 +10,16 @@ title: "Presentations"
 ###### Talks
 
 - *A Unified Breakdown Analysis for Byzantine Robust Gossip*,  
+24 september 2025,  
+[REDEEM retreat in Annecy](https://redeem-pepria.github.io/en/post/2025-09-24_retreat/),  
+[slides](/assets/files/Renaud_Redeem_September2025.pdf).
+
+- *A Unified Breakdown Analysis for Byzantine Robust Gossip*,  
+17 september 2025,  
+[Workshop on Adversarial Threats on Real Life Learning Systems](https://mlsecurity-workshop.github.io),  
+[slides](/assets/files/Renaud_AdverLearSyst_September2025.pdf).
+
+- *A Unified Breakdown Analysis for Byzantine Robust Gossip*,  
 4 september 2025,  
 [StatMathAppli](https://statmathappli.mathnum.inrae.fr),  
 [slides](/assets/files/Renaud_StatMathAppli_2025_condensee.pdf).
