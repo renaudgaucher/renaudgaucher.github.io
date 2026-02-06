@@ -5,14 +5,15 @@ title: "About me"
 ---
 
 
-I am a second year PhD student at [CMAP](https://portail.polytechnique.edu/cmap/en), École polytechnique and at [Inria](https://www.inria.fr/en). I am supervised by [Aymeric Dieuleveut](http://www.cmap.polytechnique.fr/~aymeric.dieuleveut/), from CMAP, and by [Hadrien Hendrikx](https://www.di.ens.fr/hadrien.hendrikx/), from Inria.
+I am a third year PhD student at [CMAP](https://portail.polytechnique.edu/cmap/en), École polytechnique and at [Inria](https://www.inria.fr/en). I am supervised by [Aymeric Dieuleveut](http://www.cmap.polytechnique.fr/~aymeric.dieuleveut/), from CMAP, and by [Hadrien Hendrikx](https://www.di.ens.fr/hadrien.hendrikx/), from Inria.
 
 I am mainly interested in distributed learning, specifically Byzantine robustness and privacy, currently with a focus on the decentralized setting. You can take a look at my [papers](https://renaudgaucher.github.io/papers/) and my [full CV](https://renaudgaucher.github.io/assets/files/CV_Renaud.pdf). 
 
 
 
 ##### News
-
+- Check out my last paper (preprint, to be fair) -> [From Inexact Gradients to Byzantine Robustness: Acceleration and Optimization under Similarity](https://arxiv.org/abs/2602.03329) 
+- [Byzantine-Robust Gossip: Insights from a Dual Approach](https://arxiv.org/abs/2405.03449) has been accepted to TMLR! 
 - Very proud to anounce that the work with Aymeric Dieuleveut and Hadrien Hendrikx, [A Unified Breakdown Analysis for Byzantine Robust Gossip](https://arxiv.org/abs/2410.10418), was accepted at [ICML 2025](https://icml.cc/Conferences/2025)!
 - From May to July 2025, I am visiting [Lydia Zakynthinou](https://lydiazakynthinou.com) at UC Berkeley. Thanks for this great opportunity! I also thank the [FMJH](https://www.fondation-hadamard.fr/en/) for funding partially this stay abroad.
 

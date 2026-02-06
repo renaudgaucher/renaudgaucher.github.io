@@ -16,9 +16,16 @@ ICML 2025
 [code](https://github.com/renaudgaucher/Byzantine-Robust-Gossip)
 [poster](/assets/files/poster_ICML25.pdf)
 
-###### Pre-prints
-
 - *Byzantine-Robust Gossip: Insights from a Dual Approach*  
 R. Gaucher, A. Dieuleveut, H. Hendrikx  
-2024  
+TMLR 2026 
 [arXiv](https://arxiv.org/abs/2405.03449) 
+
+###### Pre-prints
+
+- *From Inexact Gradients to Byzantine Robustness: Acceleration and Optimization under Similarity*  
+R. Gaucher, A. Dieuleveut, H. Hendrikx  
+[arXiv](https://arxiv.org/abs/2602.03329)  
+[code](https://github.com/renaudgaucher/Inexact-gradient-acceleration-and-similarity)
+
+
