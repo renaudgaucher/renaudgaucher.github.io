@@ -5,7 +5,7 @@ title: "About me"
 ---
 
 
-I am a Postdoctoral Researcher currently at [CMAP](https://portail.polytechnique.edu/cmap/en), École polytechnique. I'm moving to the [LPSM](https://www.lpsm.paris), at Sorbonne University (Jussieu Campus) to work with Rafael Pinot, Aurélien Bellet and Nirupam Gupta in November. 
+I am a Postdoctoral Researcher currently at [CMAP](https://portail.polytechnique.edu/cmap/en), École polytechnique. I'm moving to the [LPSM](https://www.lpsm.paris), at Sorbonne University to work with Rafael Pinot, Aurélien Bellet and Nirupam Gupta in November. 
 
 I have a PhD on robust distributed learning, pursued under the supervision from [Aymeric Dieuleveut](http://www.cmap.polytechnique.fr/~aymeric.dieuleveut/), from École polytechnique, and by [Hadrien Hendrikx](https://www.di.ens.fr/hadrien.hendrikx/), from Inria.
 
@@ -23,4 +23,4 @@ I am mainly interested in distributed learning, specifically Byzantine robustnes
 
 ##### Community
 
-I am currently engaged in the sustainable development group at [CMAP](https://portail.polytechnique.edu/cmap/en), École polytechnique. I also co-founded [Aymeric Dieuleveut's team](https://adieuleveutteam.github.io/) group meeting with [Margaux Zaffran](https://mzaffran.github.io), which I still co-organize with [Daniel Berg Thomsen](https://bergthomsen.com). 
+I have been engaged in the sustainable development group at [CMAP](https://portail.polytechnique.edu/cmap/en), École polytechnique. I also co-founded [Aymeric Dieuleveut's team](https://adieuleveutteam.github.io/) group meeting with [Margaux Zaffran](https://mzaffran.github.io), which I still co-organize with [Daniel Berg Thomsen](https://bergthomsen.com). 

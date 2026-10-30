@@ -119,9 +119,9 @@ author:
   location         : 
   email            : 
   links:
-    - label: "renaud.gaucher_at_polytechnique.edu"
+    - label: "renaudp[dot]gaucher[at]gmail[dot]com"
       icon: "fas fa-fw fa-envelope"
-      url: "mailto:renaud.gaucher_at_polytechnique.edu?body=Replace _at_ with @ in the recipient e-mail!"
+      url: "mailto:renaudp [dot] gaucher [at] gmail [dot] com?body=..."
     - label: "ArXiv"
       icon: "ai ai-fw ai-arxiv"
       url: "https://arxiv.org/search/?searchtype=author&query=Gaucher%2C+R"
